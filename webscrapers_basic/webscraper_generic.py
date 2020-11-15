@@ -1,4 +1,4 @@
-""" Project websraper_generic
+""" Project webscraper_generic
     Created on 15-11-2020, 18:18
     @author Alejo Cain """
 # webscraping selenium tutorial using python 3.9 and selenium
